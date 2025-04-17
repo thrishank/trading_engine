@@ -1,0 +1,65 @@
+[
+  {
+    "trade_id": "d4890167-06fd-4a14-adbe-9b223b176e8b",
+    "taker_order_id": "2",
+    "maker_order_id": "1",
+    "pair": "BTC/USDC",
+    "price": "63500.00",
+    "amount": "0.00230",
+    "timestamp": 1744916183529
+  },
+  {
+    "trade_id": "8f7150e3-a7d4-4c7a-8d07-6cd5cd49a1fc",
+    "taker_order_id": "4",
+    "maker_order_id": "3",
+    "pair": "BTC/USDC",
+    "price": "62880.54",
+    "amount": "0.00798",
+    "timestamp": 1744916183529
+  },
+  {
+    "trade_id": "0a94b535-2e79-477f-9706-cff08f4ffcf2",
+    "taker_order_id": "7",
+    "maker_order_id": "6",
+    "pair": "BTC/USDC",
+    "price": "47500",
+    "amount": "0.20000",
+    "timestamp": 1744916183529
+  },
+  {
+    "trade_id": "73d22f1e-45a2-4d87-890e-54acf342c7e8",
+    "taker_order_id": "9",
+    "maker_order_id": "8",
+    "pair": "BTC/USDC",
+    "price": "61577.30",
+    "amount": "2.34500",
+    "timestamp": 1744916183529
+  },
+  {
+    "trade_id": "43fb1224-6853-4dd0-be4c-8eb8d41fe8ee",
+    "taker_order_id": "10",
+    "maker_order_id": "8",
+    "pair": "BTC/USDC",
+    "price": "61577.30",
+    "amount": "2.00000",
+    "timestamp": 1744916183529
+  },
+  {
+    "trade_id": "a5552e88-1242-4203-92b8-21a9416ec2ba",
+    "taker_order_id": "11",
+    "maker_order_id": "8",
+    "pair": "BTC/USDC",
+    "price": "61577.30",
+    "amount": "0.50000",
+    "timestamp": 1744916183529
+  },
+  {
+    "trade_id": "7bbfb426-19ba-4b09-9c8f-70b82b63610d",
+    "taker_order_id": "12",
+    "maker_order_id": "8",
+    "pair": "BTC/USDC",
+    "price": "61577.30",
+    "amount": "1.50000",
+    "timestamp": 1744916183529
+  }
+]
